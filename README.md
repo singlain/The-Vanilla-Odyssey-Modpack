@@ -1,4 +1,4 @@
-![enter image description here](https://i.ibb.co/tPRw0fn/Untitled-1.png)
+![enter image description here](https://i.ibb.co/xhmhkwb/Untitled-1.png)
 ## The Vanilla Odyssey is a Vanilla-like modpack that tries to keep the perfect balance between a heavily-modded and vanilla-like experience. 
 ### The main focus of this mod is Create Mod, Farmer's Delight and addons connecting these two, as well a complete combat overhaul, sounds overhaul, horses overhaul, villager trading rebalance and A LOT of QoL Mods.
 ## Here's a current list of mod as for beta 2.1
